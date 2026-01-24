@@ -1,4 +1,4 @@
-## Hi there 👋
+![GitHub Snake](https://github.com/tanish0050/tanish0050/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **tanish0050/tanish0050** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
