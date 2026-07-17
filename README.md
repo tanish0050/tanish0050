@@ -1,6 +1,3 @@
-<div align="center">
-
-<img src="https://avatars.githubusercontent.com/tanish0050" width="170" style="border-radius:50%" />
 
 # Hi 👋, I'm Tanish Kumar
 
