@@ -112,7 +112,7 @@ Resume Analyzer + Interview Coach + Career Predictor.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=tanish0050&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=tanish0050&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanish0050&layout=compact&theme=tokyonight&hide_border=true"/>
 
