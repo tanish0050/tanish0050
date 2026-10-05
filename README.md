@@ -117,35 +117,10 @@ Resume Analyzer + Interview Coach + Career Predictor.
 
 ---
 
-# 🔥 GitHub Streak
 
-<p align="center">
 
-<img src="https://streak-stats.demolab.com?user=tanish0050&theme=tokyonight&hide_border=true"/>
 
-</p>
 
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanish0050&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=tanish0050&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
-
-</p>
-
----
 
 # 🐍 Contribution Snake
 
